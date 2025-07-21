@@ -33,7 +33,7 @@ In Sweden, I did my 6 months (Jan 2022 - July 2022) <b>Internship as Web Develop
 
 And I have (Since Sep 02, 2022) worked with <b>'School of Applied Technology - SALT'</b> as FullStack Javascript Developer.
 
-Currently, I am Frontend developer at Lekab Communications System Ltd.
+Currently, I am <b>Frontend developer at Lekab Communications System Ltd</b>.
 
 
 Languages and Tools
