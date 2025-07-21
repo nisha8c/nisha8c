@@ -31,7 +31,10 @@ I have done my <b>Bachelor's degree in Information Technology</b> from Mumbai Un
 
 In Sweden, I did my 6 months (Jan 2022 - July 2022) <b>Internship as Web Developer for WordPress based website</b> for ScientifyResearch.org via JobbSprånget.
 
-And Currently (Since Sep 02, 2022) working with <b>'School of Applied Technology - SALT'</b> as FullStack Javascript Developer.
+And I have (Since Sep 02, 2022) worked with <b>'School of Applied Technology - SALT'</b> as FullStack Javascript Developer.
+
+Currently, I am Frontend developer at Lekab Communications System Ltd.
+
 
 Languages and Tools
 --
