@@ -4,7 +4,6 @@
 
 <p align="center">
 Fullstack JavaScript Developer based in Stockholm 🇸🇪<br/>
-Currently building scalable messaging platforms and responsive UIs.
 </p>
 
 </div>
