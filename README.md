@@ -158,7 +158,7 @@ B.Sc. – Information Technology
 ## 🔥 My GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nisha8c&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=nisha8c&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
