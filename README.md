@@ -1,65 +1,156 @@
-### Hi there, I am Nisha Chavan 👋
+<div style="background:#0d1117;padding:30px;border-radius:10px;color:#e6edf3;">
 
+<h1 align="center">👋 Hi, I'm <span style="color:#00eaff;">Nisha Chavan</span></h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/P3F2Skd5IS0YN7Pjef/giphy.gif" width="80" height="80"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nisha-c-a15b59220/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<h1>
-  Welcome!!!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<img src="https://komarev.com/ghpvc/?username=nisha8c&style=flat-square&color=blue" alt=""/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
-</div>
-
-About Me
---
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> originally from Mumbai, India. I am passionate about technology and curious to learn new skills.
-
-I have done my <b>Bachelor's degree in Information Technology</b> from Mumbai University (2009) and have worked in MNC (currently known as Capgemini) in India for 5 years (Dec 2009 to Dec 2014) as <b>Software Developer with measure focus on JavaScript</b>.
-
-In Sweden, I did my 6 months (Jan 2022 - July 2022) <b>Internship as Web Developer for WordPress based website</b> for ScientifyResearch.org via JobbSprånget.
-
-And I have (Since Sep 02, 2022) worked with <b>'School of Applied Technology - SALT'</b> as FullStack Javascript Developer.
-
-Currently, I am <b>Frontend developer at Lekab Communications System Ltd</b>.
-
-
-Languages and Tools
---
-<div>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next JS" alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongo DB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSql" alt="PostgreSql" width="40" height="40"/>&nbsp;
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="WebPack" alt="WebPack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<p align="center">
+Fullstack JavaScript Developer based in Stockholm 🇸🇪<br/>
+Currently building scalable messaging platforms and responsive UIs.
+</p>
 
 </div>
 
+---
 
+<div style="background:#161b22;padding:25px;border-radius:10px;color:#e6edf3;">
+
+## 💼 Work Experience
+
+### <span style="color:#00eaff;">Full Stack Developer – IMR</span>
+📍 Stockholm, Sweden | **Jan 2026 – Present**  
+
+**Tech:** Node JS
+
+---
+
+### <span style="color:#00eaff;">Frontend Developer – Lekab Communication Systems</span>
+📍 Stockholm, Sweden | **Feb 2023 – Present**  
+- Built responsive web/mobile platforms using TypeScript + React (Vaadin/Lit).  
+- Integrated secure components, REST APIs, and CI/CD pipelines.  
+- Designed enterprise RCS messaging UI composer with drag-and-drop cards, templating, and live previews.  
+- Implemented modern UI editing + animations using Slate.js and Framer Motion.
+
+**Tech:** React · TypeScript · Vaadin · Lit · CSS
+
+---
+
+### <span style="color:#00eaff;">Fullstack JavaScript Developer – School of Applied Technology (SALT)</span>  
+📍 Stockholm, Sweden | **Sept 2022 – Feb 2023**  
+- Completed intensive Fullstack JS bootcamp.  
+- Continued as SALT consultant for LEKAB for 1 year 6 months.
+
+**Tech:** JavaScript · TypeScript · Node.js · React.js · Next.js · MongoDB · Webpack · HTML · CSS
+
+---
+
+### <span style="color:#00eaff;">Web Developer – ScientifyResearch</span>  
+📍 Stockholm, Sweden | **Jan 2022 – Jul 2022**  
+- Improved UI/UX + functionality for scientifyRESEARCH.org  
+- Implemented SEO strategies increasing site traffic.  
+- Setup & managed Google Analytics + Ads.
+
+**Tech:** WordPress · Elementor · JavaScript
+
+---
+
+### <span style="color:#00eaff;">Software Developer – Patni / iGate / Capgemini</span>  
+📍 Mumbai, India | **Dec 2009 – Dec 2014**  
+- Contributed to global data migration + ERP modernization projects.  
+- Wrote migration rules, queries, load pipelines + workflow integrations.  
+- Mentored junior developers and improved processes + documentation.
+
+**Tech:** Cransoft · PL/SQL · Shell scripting · JavaScript  
+
+</div>
+
+---
+
+<div style="background:#0d1117;padding:25px;border-radius:10px;color:#e6edf3;">
+
+## 🧠 Skills
+
+### 🎨 Frontend
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=next)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![CSS](https://skillicons.dev/icons?i=css)
+![SASS](https://skillicons.dev/icons?i=sass)
+![Radix](https://img.shields.io/badge/Radix_UI-components-161618)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-animation-0055FF)
+![Micro Frontends](https://img.shields.io/badge/MFE-micro_frontends-8B5CF6)
+
+---
+
+### ⚙ Backend
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://img.shields.io/badge/Express.js-backend-000000)
+![REST](https://img.shields.io/badge/REST-apis-2563EB)
+![tRPC](https://img.shields.io/badge/tRPC-typesafe_apis-0F766E)
+![Sanity](https://img.shields.io/badge/Sanity.io-headless_cms-F03E2F)
+![GraphQL](https://skillicons.dev/icons?i=graphql)
+![JWT](https://img.shields.io/badge/JWT-auth-4B5563)
+
+---
+
+### 🗃 Databases
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+
+---
+
+### 🛠 Tools & Platforms
+![Git](https://skillicons.dev/icons?i=git)
+![Bitbucket](https://skillicons.dev/icons?i=bitbucket)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![IntelliJ](https://skillicons.dev/icons?i=idea)
+![WordPress](https://skillicons.dev/icons?i=wordpress)
+![Jira](https://img.shields.io/badge/Jira-agile-0052CC)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+
+</div>
+
+---
+
+<div style="background:#161b22;padding:25px;border-radius:10px;color:#e6edf3;">
+
+## 🎓 Education
+
+### School of Applied Technology (SALT)
+FullStack JS Development Bootcamp  
+📅  Sept 2022 – Dec 2022  
+
+### University of Mumbai  
+B.Sc. – Information Technology  
+📅 2006 – 2009  
+
+---
+
+## 📜 Courses & Certifications
+
+- Agile Project Management with Jira Cloud  
+- SALT Bootcamp  
+- AWS Cloud Practitioner – 🌱 in progress  
+
+---
+
+## ⚡ What drives me
+- accessible + scalable UI  
+- component architecture + clean abstractions  
+- refactoring + maintainability  
+- pair-programming & mentoring  
+
+---
+
+<p align="center">
+    💬 Thanks for reading! <br/>
+    Feel free to explore my pinned repositories 👇
+</p>
+
+</div>
 
 
 ### :fire: My Stats :
