@@ -22,7 +22,7 @@ Fullstack JavaScript Developer based in Stockholm 🇸🇪<br/>
 ---
 
 ### <span style="color:#00eaff;">Frontend Developer – Lekab Communication Systems</span>
-📍 Stockholm, Sweden | **Feb 2023 – Present**  
+📍 Stockholm, Sweden | **Feb 2023 – Dec 2025**  
 - Built responsive web/mobile platforms using TypeScript + React (Vaadin/Lit).  
 - Integrated secure components, REST APIs, and CI/CD pipelines.  
 - Designed enterprise RCS messaging UI composer with drag-and-drop cards, templating, and live previews.  
