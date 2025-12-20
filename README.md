@@ -153,11 +153,16 @@ B.Sc. – Information Technology
 </div>
 
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nisha8c)](https://git.io/streak-stats)
+---
 
+## 🔥 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisha8c)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nisha8c&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisha8c&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 
