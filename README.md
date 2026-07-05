@@ -80,7 +80,6 @@ Fullstack JavaScript Developer based in Stockholm 🇸🇪<br/>
 
 ---
 
-<div style="background:#161b22;padding:25px;border-radius:10px;color:#e6edf3;">
 
 ## 🚀 Personal Project
 
@@ -101,6 +100,8 @@ A privacy-first SaaS application that helps individuals, families, and businesse
 🔗 **Website:** https://renewshield.app *(coming soon)*
 
 </div>
+
+---
 
 ## 🧠 Skills
 
