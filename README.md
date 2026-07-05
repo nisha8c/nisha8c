@@ -14,10 +14,23 @@ Fullstack JavaScript Developer based in Stockholm 🇸🇪<br/>
 
 ## 💼 Work Experience
 
-### <span style="color:#00eaff;">Full Stack Developer – IMR</span>
-📍 Stockholm, Sweden | **Jan 2026 – Present**  
+### <span style="color:#00eaff;">Frontend Developer – AI Producer</span>
+📍 Stockholm, Sweden | **Jul 2026 – Present**
 
-**Tech:** Node JS
+**Tech:** React · TypeScript · Node.js · REST APIs · GraphQL · PostgreSQL · Docker · Aurelia · Vitest · Cypress
+
+---
+
+### <span style="color:#00eaff;">Full Stack Developer – Institutet av Människor i Rörelse (IMR)</span>
+📍 Stockholm, Sweden | **Jan 2026 – Jul 2026**
+
+- Contributed to the development of digital health platforms including **IMR Coach**, **IMR Pulse**, and **IMR Academy**.
+- Built and maintained full-stack features using **React, TypeScript, Node.js**, and REST APIs.
+- Developed scalable backend services, integrated third-party APIs, and improved application performance.
+- Collaborated closely with product, design, and engineering teams to deliver user-focused healthcare solutions.
+- Wrote automated tests and participated in code reviews to maintain code quality and reliability.
+
+**Tech:** React · TypeScript · Node.js · REST APIs · GraphQL · PostgreSQL · Docker · AWS · Vitest · Cypress
 
 ---
 
