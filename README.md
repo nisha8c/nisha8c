@@ -78,6 +78,30 @@ Fullstack JavaScript Developer based in Stockholm 🇸🇪<br/>
 
 <div style="background:#0d1117;padding:25px;border-radius:10px;color:#e6edf3;">
 
+---
+
+<div style="background:#161b22;padding:25px;border-radius:10px;color:#e6edf3;">
+
+## 🚀 Personal Project
+
+### <span style="color:#00eaff;">Founder & Full Stack Developer – RenewShield</span>
+📍 Stockholm, Sweden | **2026 – Present**
+
+A privacy-first SaaS application that helps individuals, families, and businesses track subscriptions, free trials, renewals, and cancellation deadlines without requiring bank connections.
+
+**Highlights**
+- Built a modern SaaS platform from the ground up with authentication, workspaces, subscriptions, reminders, and role-based access.
+- Designed a scalable subscription management system supporting Personal, Family, Team, Business, and Enterprise plans.
+- Implemented secure authentication with 2FA (TOTP), encrypted user data, and privacy-first architecture.
+- Developed reminder workflows for renewals, free trials, cancellation deadlines, and price history tracking.
+- Designed responsive dashboards, pricing pages, onboarding flows, and a modern UI focused on simplicity and usability.
+
+**Tech:** React · Next.js · TypeScript · Node.js · PostgreSQL · Prisma · Docker · AWS · Tailwind CSS · JWT
+
+🔗 **Website:** https://renewshield.app *(coming soon)*
+
+</div>
+
 ## 🧠 Skills
 
 ### 🎨 Frontend
