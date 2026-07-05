@@ -95,7 +95,7 @@ A privacy-first SaaS application that helps individuals, families, and businesse
 - Developed reminder workflows for renewals, free trials, cancellation deadlines, and price history tracking.
 - Designed responsive dashboards, pricing pages, onboarding flows, and a modern UI focused on simplicity and usability.
 
-**Tech:** React · Next.js · TypeScript · Node.js · PostgreSQL · Prisma · Docker · AWS · Tailwind CSS · JWT
+**Tech:** React · Next.js · TypeScript · Node.js · PostgreSQL · Prisma · Docker · AWS · Tailwind CSS · JWT · Neon · Stripe · tRPC
 
 🔗 **Website:** https://renewshield.app *(coming soon)*
 
